@@ -4,3 +4,6 @@ ASSIGNMENT 1: 5 Card Stud odds
 
 ASSIGNMENT 2: Risk calculation odds
   -This assingment I was to run a game of risk and calculate the odds of the attacker and the defender winning by running the simulation 1,000,000 times.
+
+Assignment 3: Sorting Algorithms and Data Chart
+  -This assignment I was to implement the BubbleSort, ShakerSort, CountingSort, QuickSort, ModifiedQuickSort, and the MergeSort and then calculte the copy/compares of each one and plug them into a data chart and see how they compare.
